@@ -1,1 +1,1 @@
-# odin-recipes
+My first time coding in linux. Let's see how it goes.
